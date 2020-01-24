@@ -8,6 +8,7 @@ Contents:
 	First_project - setup for first web server, with simple view
 
 Set Up:
+
 	1. Clone repo, make sure to be in a virtual environment!
 
 	2. If you have Django installed, go into repo and run `python manage.py runserver` to start the server.
