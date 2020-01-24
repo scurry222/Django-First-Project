@@ -1,6 +1,6 @@
 # My First Django Project
 
-covering django basics, setting up web servers
+Covering django basics, setting up web servers
 
 Following course on Udemy: https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/
 
