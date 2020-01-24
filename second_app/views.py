@@ -4,3 +4,7 @@ from django.http import HttpResponse
 def index(request):
     my_dict = {'insert_me': "I am from views.py"}
     return render(request, 'second_app/index.html', context=my_dict)
+
+def help(request):
+    help_dict = {'help_insert': "Help Page"}
+    return render(request, 'second_app/help.html', context=help_dict)

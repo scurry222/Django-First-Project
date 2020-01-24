@@ -21,6 +21,6 @@ from second_app import views
 
 urlpatterns = [
     url(r'^$', views.index, name='index'),
-    url(r'^second_app/', include('second_app.urls')),
+    url(r'^help/', views.help, name='help'),
     path('admin/', admin.site.urls),
 ]
