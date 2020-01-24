@@ -13,4 +13,4 @@ Set Up:
 
 	2. If you have Django installed, go into repo and run `python manage.py runserver` to start the server.
 
-	3. Copy web location (most likely `http://127.0.0.1:8000/`) into your favorite browser to display view.
+	3. Copy web location (default `http://127.0.0.1:8000/`) into your favorite browser to display view.
